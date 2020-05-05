@@ -2,7 +2,7 @@
   "name": "todos",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "[yangyi] <[639293382@qq.com]>",
+  "author": "[xionghaodong] <[www.1426458287@outlook.com]>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
